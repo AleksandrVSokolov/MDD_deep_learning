@@ -1,5 +1,7 @@
-# depression_ML_DL
-This repository contains code for multi-cohort analysis of depression blood DNA methylation.
+# depression_ML_DL (MDD_deep_learning)
+This repository contains code for Decoding depression: a comprehensive multi-cohort exploration of blood DNA methylation using machine learning and deep learning approaches
+
+The current page is a backup for the main repository. 
 
 ### Notes
  - This repository provides the source code for analyses but not the original data/analysis environments.
